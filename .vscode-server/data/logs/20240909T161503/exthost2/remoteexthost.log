@@ -16,3 +16,10 @@
 	at async T.getBranchBase (/root/.vscode-server/bin/4849ca9bdf9666755eb463db297b69e5385090e3/extensions/git/dist/main.js:2:1020849)
 	at async t.GitHistoryProvider.resolveHEADMergeBase (/root/.vscode-server/bin/4849ca9bdf9666755eb463db297b69e5385090e3/extensions/git/dist/main.js:2:948410)
 	at async t.GitHistoryProvider.onDidRunGitStatus (/root/.vscode-server/bin/4849ca9bdf9666755eb463db297b69e5385090e3/extensions/git/dist/main.js:2:941737)
+2024-09-09 16:26:45.578 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1346
+2024-09-09 16:28:09.551 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2024-09-09 16:28:14.873 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2024-09-09 16:28:14.874 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2024-09-09 16:28:14.874 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2024-09-09 16:37:26.878 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2024-09-09 16:37:27.403 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
