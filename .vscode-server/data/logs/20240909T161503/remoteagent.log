@@ -1,0 +1,19 @@
+2024-09-09 16:15:04.042 [info] 
+
+
+
+
+2024-09-09 16:15:04.051 [info] Extension host agent started.
+2024-09-09 16:15:04.092 [debug] No uninstalled extensions found.
+2024-09-09 16:15:04.093 [info] Started initializing default profile extensions in extensions installation folder. file:///root/.vscode-server/extensions
+2024-09-09 16:15:04.109 [debug] ComputeTargetPlatform: linux-x64
+2024-09-09 16:15:04.117 [info] [127.0.0.1][d1569aa0][ManagementConnection] New connection established.
+2024-09-09 16:15:04.137 [info] Log level changed to info
+2024-09-09 16:15:04.194 [info] Completed initializing default profile extensions in extensions installation folder. file:///root/.vscode-server/extensions
+2024-09-09 16:15:04.342 [info] [127.0.0.1][d8923116][ExtensionHostConnection] New connection established.
+2024-09-09 16:15:04.352 [info] [127.0.0.1][d8923116][ExtensionHostConnection] <304> Launched Extension Host Process.
+2024-09-09 16:26:20.877 [info] [127.0.0.1][d1569aa0][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-09-09 16:26:20.907 [info] [127.0.0.1][d8923116][ExtensionHostConnection] <304> Extension Host Process exited with code: 0, signal: null.
+2024-09-09 16:26:24.697 [info] [127.0.0.1][c6b30de5][ManagementConnection] New connection established.
+2024-09-09 16:26:25.041 [info] [127.0.0.1][8b222597][ExtensionHostConnection] New connection established.
+2024-09-09 16:26:25.054 [info] [127.0.0.1][8b222597][ExtensionHostConnection] <10627> Launched Extension Host Process.

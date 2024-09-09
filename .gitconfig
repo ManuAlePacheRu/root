@@ -1,0 +1,5 @@
+[user]
+	name = ManuAlePacheRu
+	email = manualepacheru@gmail.com
+[credential]
+	helper = "!f() { /root/.vscode-server/bin/4849ca9bdf9666755eb463db297b69e5385090e3/node /tmp/vscode-remote-containers-85e9f65c-dfc9-4277-a576-f364628c130b.js git-credential-helper $*; }; f"
